@@ -1,2 +1,3 @@
-# Algumas-ferramentas-para-o-ensino-da-Fisica
-Repositório criado para o primeiro desafio de projeto da DIO
+# Algumas ferramentas para o ensino de Física
+Aqui vou elencar algumas ferramentas que poderão facilitar a aprendizagem no ensino da Física.
+
